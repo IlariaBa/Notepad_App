@@ -1,3 +1,14 @@
+# NotePad App - Full Stack Implementation Exercise Ensolvers
+
+1. Start by running the backend: `$ pipenv run start`
+2. Make sure to change the port (3001) visibiliy to public
+3. Copy the API Host given in the #BACKEND_URL frontend variable in the .env file
+4. Install react-hook-form dependencies: `$ npm install react-hook-form`
+4. Run the application: `$ npm run start`
+2. Make sure to change the port (3000) visibiliy to public
+
+
+
 # WebApp boilerplate with React JS and Flask API
 
 Build web applications using React.js for the front end and python/flask for your backend API.
