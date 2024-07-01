@@ -6,6 +6,11 @@ Notepad App allows users to manage their notes efficiently. Users can add, edit,
 
 The platform is responsive, ensuring it works seamlessly across all devices, whether you are on a desktop, tablet, or mobile phone. It's designed to be user-friendly, providing an intuitive interface that makes managing your notes simple and straightforward.
 
+## Live link
+
+You can find the live version in the following link:
+https://sample-service-name-k81u.onrender.com/
+
 ## Preview
 
 ![image](https://github.com/IlariaBa/Notepad_App/assets/145076192/316906ad-b63a-4225-936c-e3d08fd26b71)
