@@ -9,7 +9,7 @@ The platform is responsive, ensuring it works seamlessly across all devices, whe
 ## Live link
 
 You can find the live version in the following link:
-https://sample-service-name-k81u.onrender.com/
+https://sample-service-name-5nce.onrender.com/
 
 ## Preview
 
